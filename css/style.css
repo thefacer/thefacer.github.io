@@ -6,3 +6,17 @@ background-image: url("../images/MegamixBackground.png");
 background-repeat: no-repeat;
 background-size: 100%;
 }
+
+nav li {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: inline;
+    margin-right: 20px;
+}
+
+nav {
+display: grid;
+justify-content: right;
+}
