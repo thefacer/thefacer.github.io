@@ -4,7 +4,7 @@ margin: 0;
 }
 
 .maze {
-background-image: url("../images/MegamixBackground.png");
+background-image: url("../images/MegamixBackground_FIX.png");
 background-repeat: no-repeat;
 padding-top: 200px;
 padding-bottom: 200px;
