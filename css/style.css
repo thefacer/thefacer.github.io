@@ -5,7 +5,7 @@ font-size: 24px;
 }
 
 .maze {
-background-image: url("../images/MegamixBackground_FIX.png");
+background-image: url("../images/MegamixBackground.png");
 background-size: cover;
 background-repeat: no-repeat;
 }
