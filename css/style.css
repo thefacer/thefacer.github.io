@@ -4,7 +4,7 @@ font-family: system-ui;
 }
 
 .maze {
-background-image: url("../images/MegamixBackground_FIX.png");
+background-image: url("../images/MegamixBackground.png");
 background-repeat: no-repeat;
 padding-top: 650px;
 padding-bottom: 2580px;
